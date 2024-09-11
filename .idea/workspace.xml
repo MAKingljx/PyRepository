@@ -5,11 +5,164 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f5a3163-5585-4544-aed2-6641d9bc02b0" name="Changes" comment="this is first commit and push">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/frontend/ " afterDir="false" />
       <change afterPath="$PROJECT_DIR$/frontend/ .pub" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/$tn.mixin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-action-sheet/tn-action-sheet.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-avatar-group/tn-avatar-group.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-avatar/tn-avatar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-badge/tn-badge.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-button/tn-button.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-calendar/tn-calendar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-car-keyboard/tn-car-keyboard.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-cascade-selection/tn-cascade-selection.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-checkbox-group/tn-checkbox-group.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-checkbox/tn-checkbox.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-circle-progress/tn-circle-progress.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-collapse-item/tn-collapse-item.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-collapse/tn-collapse.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-color-icon/tn-color-icon.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-column-notice/tn-column-notice.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-count-down/tn-count-down.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-count-scroll/tn-count-scroll.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-count-to/tn-count-to.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-cropper/index.wxs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-cropper/tn-cropper.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-custom-swiper-item/index.wxs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-custom-swiper-item/tn-custom-swiper-item.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-custom-swiper/tn-custom-swiper.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-drag/index.wxs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-drag/tn-drag.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-empty/tn-empty.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-fab/tn-fab.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-form-item/tn-form-item.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-form/tn-form.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-goods-nav/tn-goods-nav.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-grid-item/tn-grid-item.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-grid/tn-grid.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-image-upload-drag/tn-image-upload-drag.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-image-upload/tn-image-upload.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-index-anchor/tn-index-anchor.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-index-list/tn-index-list.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-input/tn-input.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-keyboard/tn-keyboard.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-landscape/tn-landscape.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-lazy-load/tn-lazy-load.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-line-progress/tn-line-progress.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-list-cell/tn-list-cell.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-list-view/tn-list-view.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-load-more/tn-load-more.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-loading/tn-loading.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-modal/tn-modal.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-nav-bar/tn-nav-bar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-notice-bar/tn-notice-bar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-number-box/tn-number-box.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-number-keyboard/tn-number-keyboard.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-picker/tn-picker.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-popup/tn-popup.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-radio-group/tn-radio-group.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-radio/tn-radio.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-rate/tn-rate.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-read-more/tn-read-more.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-row-notice/tn-row-notice.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-scroll-list/tn-scroll-list.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-scroll-view/tn-scroll-view.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-select/tn-select.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-sign-board/tn-sign-board.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-skeleton/tn-skeleton.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-slider/tn-slider.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-stack-swiper/index-h5.wxs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-stack-swiper/index.wxs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-stack-swiper/tn-stack-swiper.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-steps/tn-steps.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-sticky/tn-sticky.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-subsection/tn-subsection.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-swipe-action-item/index.wxs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-swipe-action-item/tn-swipe-action-item.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-swipe-action/tn-swipe-action.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-swiper/tn-swiper.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-switch/tn-switch.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-tabbar/tn-tabbar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-table/tn-table.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-tabs-swiper/tn-tabs-swiper.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-tabs/tn-tabs.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-tag/tn-tag.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-td/tn-td.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-time-line-item/tn-time-line-item.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-time-line-item/tn-time-line-item.vue_bk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-time-line/tn-time-line.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-time-line/tn-time-line.vue_bk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-tips/tn-tips.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-toast/tn-toast.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-tr/tn-tr.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-tree-node/tn-tree-node.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-tree-view/tn-tree-view.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-verification-code-input/tn-verification-code-input.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-verification-code/tn-verification-code.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/components/tn-waterfall/tn-waterfall.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/iconfont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/config/color.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/config/zIndex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/css/color.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/css/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/css/style.h5.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/css/style.mp.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/function/$parent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/function/applyEven.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/function/array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/function/color.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/function/deepClone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/function/message.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/function/number.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/function/string.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/function/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/function/updateCustomBarInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/function/uuid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/luch-request/adapters/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/luch-request/core/InterceptorManager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/luch-request/core/Request.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/luch-request/core/buildFullPath.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/luch-request/core/defaults.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/luch-request/core/dispatchRequest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/luch-request/core/mergeConfig.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/luch-request/core/settle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/luch-request/helpers/buildURL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/luch-request/helpers/combineURLs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/luch-request/helpers/isAbsoluteURL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/luch-request/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/luch-request/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/luch-request/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/luch-request/utils/clone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/mixin/components_color.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/mixin/mixin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/mixin/mpShare.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/mixin/touch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/utils/area.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/utils/async-validator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/utils/calendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/utils/city.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/utils/emitter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/libs/utils/province.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tuniao-ui/theme.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend" beforeDir="false" afterPath="$PROJECT_DIR$/frontend" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,31 +218,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Flask server.Flask (app.py).executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/root1/PycharmProjects/MyFlaskDemo/frontend/src&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Applications/PyCharm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Flask server.Flask (app.py).executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "Merging main",
+    "last_opened_file_path": "/Users/root1/PycharmProjects/MyFlaskDemo/frontend/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "ts.external.directory.path": "/Applications/PyCharm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;,
-      &quot;repository&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "repository"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/frontend/src" />
@@ -159,7 +312,7 @@
       <updated>1725338361920</updated>
       <workItem from="1725338374036" duration="12045000" />
       <workItem from="1725933056189" duration="9731000" />
-      <workItem from="1726034207572" duration="4406000" />
+      <workItem from="1726034207572" duration="5396000" />
     </task>
     <task id="LOCAL-00001" summary="this is first commit and push">
       <option name="closed" value="true" />
